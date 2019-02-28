@@ -1,0 +1,8 @@
+name=resistance
+version=1.0
+author=Tibor Konkoly
+maintainer=Tibor Konkoly <tbr.konkoly@gmail.com>
+sentence=A library for resistance counting.
+paragraph=An open source library for resistance counting. Author does not take any responsibility and he is not liable for any damage caused during the usage. 
+url=http://www.github.com/TiborKonkoly
+architectures=avr,samd,sam
